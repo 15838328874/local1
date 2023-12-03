@@ -9,4 +9,4 @@ def elu_demo():
     
 if __name__ == "__main__":
     elu_demo()
-    print("run successfully")
+    print("run successfully!!!")
